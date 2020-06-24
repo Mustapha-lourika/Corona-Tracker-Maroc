@@ -1,0 +1,39 @@
+body{
+    background-color: white;
+}
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+
+}
+.imgContainer{
+    margin-bottom: 20px;
+    height: 300px;
+    width: 50%;
+
+}
+@media(max-width:770px){
+
+    .container{
+        margin: 0 10%;
+
+    }
+    .imgContainer{
+        width: 100%;
+        margin-bottom: 10px;
+    }
+}
+.con{
+    color: red;
+    margin: 2% 2%;
+    font-size: x-large;
+    font-weight: bold;
+}
+
+.margi{
+    margin: 10px;
+    color: blanchedalmond;
+    font-size: x-large;
+}

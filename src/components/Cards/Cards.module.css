@@ -1,0 +1,66 @@
+.container{
+    margin: 50px 0px;
+}
+.card{
+    margin: 2% 2% !important;
+}
+.infected{
+    border-bottom: 10px solid rgba(0,255, 0, 0.5);
+    border-top:5px solid yellow;
+   
+    border-radius: 10%;
+    margin-bottom: 20px;
+    font-weight: bolder;
+        color: white !important;
+
+}
+
+    
+    
+
+        @media(max-width:770px){
+            .card{
+                margin: 2% 0 !important;
+            
+            }
+           
+           .container .cols{
+                color: black!important;
+                margin:10%;
+                font-weight: normal;
+                direction: rtl;
+                
+            }
+        
+        }
+
+.r{
+    float: right;
+    margin-bottom: 2px;
+}
+.l{
+    float: left;
+    margin-bottom: 2px;
+
+}
+.mr
+{
+    margin-bottom: 10px;
+}
+.rl{
+    direction: rtl;
+    color: green;
+
+    
+}
+.coun{
+  color: red!important;
+}
+.cols{
+    color: black!important;
+    margin-left:40%;
+    margin-bottom: 10px;
+    font-size: x-large;
+    font-weight: bold;
+    
+}
