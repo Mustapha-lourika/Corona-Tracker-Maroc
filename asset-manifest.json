@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Corona-Tracker-Maroc/static/css/main.cda769c3.chunk.css",
+    "main.js": "/Corona-Tracker-Maroc/static/js/main.96d40c6a.chunk.js",
+    "main.js.map": "/Corona-Tracker-Maroc/static/js/main.96d40c6a.chunk.js.map",
+    "runtime-main.js": "/Corona-Tracker-Maroc/static/js/runtime-main.e2629759.js",
+    "runtime-main.js.map": "/Corona-Tracker-Maroc/static/js/runtime-main.e2629759.js.map",
+    "static/js/2.62d0e68d.chunk.js": "/Corona-Tracker-Maroc/static/js/2.62d0e68d.chunk.js",
+    "static/js/2.62d0e68d.chunk.js.map": "/Corona-Tracker-Maroc/static/js/2.62d0e68d.chunk.js.map",
+    "index.html": "/Corona-Tracker-Maroc/index.html",
+    "precache-manifest.f88e74d512274d5efa3094d2db44fdbd.js": "/Corona-Tracker-Maroc/precache-manifest.f88e74d512274d5efa3094d2db44fdbd.js",
+    "service-worker.js": "/Corona-Tracker-Maroc/service-worker.js",
+    "static/css/main.cda769c3.chunk.css.map": "/Corona-Tracker-Maroc/static/css/main.cda769c3.chunk.css.map",
+    "static/js/2.62d0e68d.chunk.js.LICENSE.txt": "/Corona-Tracker-Maroc/static/js/2.62d0e68d.chunk.js.LICENSE.txt",
+    "static/media/corona.jpg": "/Corona-Tracker-Maroc/static/media/corona.184b1da2.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e2629759.js",
+    "static/js/2.62d0e68d.chunk.js",
+    "static/css/main.cda769c3.chunk.css",
+    "static/js/main.96d40c6a.chunk.js"
+  ]
+}
